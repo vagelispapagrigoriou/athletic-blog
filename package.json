@@ -17,6 +17,7 @@
         "@laravel/multiplex": "^0.4.1"
     },
     "dependencies": {
+        "@hotwired/stimulus": "^3.2.2",
         "@inertiajs/vite": "^3.8.0",
         "@inertiajs/vue3": "^3.8.0"
     }

@@ -14,7 +14,6 @@ export default defineConfig({
                 }),
             ],
         }),
-        inertia(),
         tailwindcss(),
     ],
     server: {
